@@ -1,0 +1,12 @@
+{
+  "name": "tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "Justin Rice <jsrice7391@gmail.com> (https://jsrice7391.github.io/)",
+  "license": "ISC"
+}
