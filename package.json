@@ -1,7 +1,7 @@
 {
   "name": "tests",
   "version": "1.0.0",
-  "description": "",
+  "description": "This is a repo for teaching functional based programming",
   "main": "index.js",
   "scripts": {
     "test": "mocha"

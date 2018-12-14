@@ -44,15 +44,11 @@ const whereToBuy = (arr) => {
 
 
 
-
-
-
 module.exports = {
     getOne,
     getAlMales,
     searchPeople,
     allOccupations,
-    alphabetically,
     whereToBuy,
     sortMovies,
     sortPeople,
