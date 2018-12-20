@@ -1,11 +1,7 @@
 const people = require("./People.json")
 
-const getOne = (arr) => {
-    return arr[0]
-}
-
 // This function will get all of the mailes from the people.json
-const getAlMales = (arr) => {
+const getAllMales = (arr) => {
 
 }
 
@@ -45,8 +41,7 @@ const whereToBuy = (arr) => {
 
 
 module.exports = {
-    getOne,
-    getAlMales,
+    getAllMales,
     searchPeople,
     allOccupations,
     whereToBuy,

@@ -12,16 +12,17 @@ For this exercise to work to its fullest extent you will need to have the follow
 - Mocha
 - Chai
 
-If you want a challenge, set up a function that goes and gets the reuslts from this api:
+If you want a challenge, set up a function that goes and gets the results from this api:
 
 ```
 https://my.api.mockaroo.com/people.json?key=f656cb80
 ```
 
 ### Working with this project
-
-1. Open this folder and its contents within your favorite editor.
-2. Within the terminal run the following command
+1. Fork this repository.
+2. Clone it to your computer
+3. Open this folder and its contents within your favorite editor.
+4. Within the terminal run the following command
 
 ```
 npm install -g mocha chai
