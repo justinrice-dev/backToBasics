@@ -8,5 +8,9 @@
   },
   "keywords": [],
   "author": "Justin Rice <jsrice7391@gmail.com> (https://jsrice7391.github.io/)",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^5.2.0"
+  }
 }
