@@ -25,7 +25,7 @@ https://my.api.mockaroo.com/people.json?key=f656cb80
 4. Within the terminal run the following command
 
 ```
-npm install -g mocha chai
+npm install
 ```
 
 The above command will install thew two packages mocha and chai to your computer so you can test your functions going forward.
@@ -38,3 +38,10 @@ npm test
 
 This runs all the tests within the test folder. Go ahead and open the arrays.text.js
 This currently just takes an array and returns the first index of the array using the getOne method on the arrays.js document.
+
+### Writing and testing the functions
+If you are new to Node, check out the easyArrays.js file by running
+```
+node easyArrays.js
+```
+This will show the first index of the peoples array. Check out the file to see how to test these functions.
