@@ -5,6 +5,10 @@ const getAllMales = (arr) => {
 
 }
 
+//Get all of the males that are also engineers
+const getAllMaleEngineers = (arr) => {
+
+}
 // This function takes the array and a search string and returns first names and second names that contain the string
 const searchPeople = (arr, term) => {
 
